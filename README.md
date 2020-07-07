@@ -10,11 +10,11 @@
 
 
 
-##Vista preliminar del desarrollo del frontend
+## Vista preliminar del desarrollo del frontend
 <img src="https://bulma.io/images/bulma-banner.png" width="340" height="250" />
 
 
-###Desarrollo en producción
+### Desarrollo en producción
 
 > Guardar los datos de cada nota en una BD, y no de manera local.
                     
