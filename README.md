@@ -17,11 +17,6 @@
 
 ### Desarrollo en producción
 
-> Guardar los datos de cada nota en una BD, y no de manera local.
-                    
-> Agregar los módulos de autenticación.
->
-
 | Pendiente a desarollo | Descripción          |
 | ------------- | ------------------------------ |
 | `Save-in-DB()`      | Guardar los datos de cada nota en una DB, y no de manera local      |
