@@ -11,7 +11,8 @@
 
 
 ## Vista preliminar del desarrollo del frontend
-<img src="https://bulma.io/images/bulma-banner.png" width="340" height="250" />
+<img src="https://raw.githubusercontent.com/CarlosJCdev/Adminstration-by-taks/master/src/assets/Captura.JPG" width="340" height="350" />
+
 
 
 ### Desarrollo en producción
